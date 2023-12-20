@@ -1,0 +1,50 @@
+body{
+  background: linear-gradient(to left,#D6225552,#0014FFBF);
+  
+}
+
+
+
+
+h3{
+  
+  position:relative;
+  
+  top:190px ;
+  font-size: 25px;
+  
+  text-align: center;
+  color: black;
+}
+
+h3.op{
+  position: relative;
+  top:250px;
+  font-family: sustem-ui ;
+  font-size: 27px;
+}
+
+h2{
+  position: relative;
+  top: 300px;
+  text-align: center;
+  font-size: 15px;
+}
+
+hr{
+  
+  position: relative;
+  top:150px;
+  border-color: black;
+}
+
+
+svg{
+  
+  position: relative;
+  right: -119px;
+  top: 15px;
+  height: 100px;
+  width: 100px;
+  
+}
